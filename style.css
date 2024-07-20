@@ -1,0 +1,214 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url(banner.jpg);
+}
+
+nav {
+    text-align: right;
+    padding: 1.5rem 1.5rem;
+    font-size: 36px;
+}
+
+nav a {
+    color: #fff;
+    margin-right: 1.5rem;
+    transition: 0.5s;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+nav a:hover {
+    font-weight: bolder;
+    color: #939393;
+}
+
+.banner {
+    color: #fff;
+    font-size: 60px;
+    margin-left: 2rem;
+}
+
+.btn {
+    height: 4rem;
+    width: 15rem;
+    border-radius: 10rem;
+    background-color: black;
+    color: #fff;
+    border: 2px solid white;
+    font-size: 30px;
+    position: absolute;
+    left: 25%;
+    bottom: 7%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    transition: 0.6s;
+    text-align: center;
+}
+
+.btn:hover {
+    height: 4.2rem;
+    width: 15.2rem;
+    background-color: #fff;
+    color: black;
+}
+
+
+
+.heading {
+    color: #fff;
+    font-size: 27px;
+    margin-left: 2rem; 
+}
+
+.abt h1{
+    color: white;
+    font-size: 36px;
+    margin-left: 2rem;
+    font-weight: bold;
+}
+
+.abt p {
+    color: white;
+    font-size: 21px;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    text-align: justify;
+}
+
+.abt h2{
+    color: white;
+    font-size: 30px;
+    margin-left: 2rem;
+    font-weight: bold;
+}
+
+.abt .us {
+    margin-left: 15rem;
+}
+
+.abt .us a{
+    color: white;
+    font-size: 24px;
+    margin-left: 3%;
+    text-decoration: none;
+    font-weight: 100;
+}
+
+.abt .us a:hover {
+    font-weight: bold;
+    border: 1px solid #fff;
+}
+
+.que {
+    color: #fff;
+    margin-left: 10%;
+    margin-right: 10%;
+   
+}
+
+.que form {
+    font-size: 24px;
+}
+
+.que input {
+    width: 100%;
+    font-size: 21px;
+    border-radius: 6px;
+}
+
+.que option {
+    width: 100%;
+    font-size: 21px;
+    border-radius: 6px;
+}
+
+.que textarea {
+    width: 100%;
+    font-size: 21px;
+    border-radius: 6px;
+}
+
+.que label {
+    font-weight: bold;
+}
+
+.que h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.que form .btn3 {
+    height: 3rem;
+    width: 10rem;
+    color: #fff;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    align-items: center;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 2px solid white;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    transition: 0.5s;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.que form button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+
+
+.solve {
+    margin-left: 5rem;
+    margin-top: 1rem;   
+}
+
+.solve .qno {
+    color: #fff;
+    font-size: 21px;
+}
+
+.solve .qtxt {
+    color: #fff;
+    font-size: 30px;
+}
+
+.solve .ops {
+    color: #fff;
+    font-size: 26px;
+    margin-left: 3rem;
+}
+
+.btn1 {
+    height: 3rem;
+    width: 7rem;
+    font-size: 21px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: rgb(69, 0, 255); 
+    border-radius: 2rem;
+    color: #fff;
+    border-color: #fff;
+}
+
+.btn1:hover {
+    background-color: rgb(54, 0, 202);
+}
+
+#op {
+    height: 1rem;
+    width: 1rem;
+}
+
+
+
