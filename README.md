@@ -1,6 +1,6 @@
 ﻿# Quiz Application
 
-### This Quiz Application build using
+This Quiz Application build using
     - HTML
     - CSS
     - JS
